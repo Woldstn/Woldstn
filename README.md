@@ -1,3 +1,4 @@
 🇺🇸 Hello!\
 🇯🇵 こんにちは！\
-🇮🇹 Buongiorno!
+🇮🇹 Buongiorno!\
+🇧🇷 Bom dia!
